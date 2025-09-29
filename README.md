@@ -19,4 +19,22 @@ while current_number != 1:
 # Print the final 1
 print(current_number)
 
-print("Steps:", step_count)
+print("Steps:",step_count,"\n")
+
+# Challenge 2: Prime checker - for loop for known range
+print("=== Challenge 2: Prime Number Checker ===")
+
+n = int(input("Enter a number: "))
+
+print(f"Testing divisors from 2 to {n-1}...")
+
+is_prime = True  # assume prime until proven otherwise
+
+for divisor in range(2, n):  # check all numbers from 2 to n-1
+    if n % divisor == 0:
+        print(f"{n} is not prime (divisible by {divisor})")
+        is_prime = False
+        break  # stop as soon as a divisor is found
+
+if is_prime:
+    print(f"{n} is prime!","\n")

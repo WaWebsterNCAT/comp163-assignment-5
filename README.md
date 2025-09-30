@@ -1,13 +1,17 @@
 # ==============================
 # COMP 163: Assignment 5 - Loop Mastery
 # Student: Your Name Here
-# File: [username]_assignment_5.py
+# File: [WillWebster]_assignment_5.py
 # ==============================
 # Challenge 1 uses a while loop
 # Challenge 2 uses a for loop
 # Challenge 3 uses nested loops
 # ==============================
-
+# AI Assistance
+# I used AI to **clarify loop concepts** (why to use `while`, `for`, and nested loops).  
+# I received suggestions on **code formatting and README structure**.  
+# I wrote, tested, and understood all algorithms myself.  
+# AI was used only in a **limited support role** as allowed by the assignment policy. 
 # --------------------------------
 # Challenge 1: Collatz Conjecture
 # --------------------------------

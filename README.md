@@ -75,6 +75,7 @@ else:
 # Challenge 3: Multiplication Table
 # --------------------------------
 print("\n=== Challenge 3: Multiplication Table ===")
+print("Multiplication Table:")
 
 # Print header row
 print("    ", end="")

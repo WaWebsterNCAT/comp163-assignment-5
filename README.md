@@ -1,6 +1,6 @@
 # ==============================
 # COMP 163: Assignment 5 - Loop Mastery
-# Student: Your Name Here
+# Student: Will Webster
 # File: [WillWebster]_assignment_5.py
 # ==============================
 # Challenge 1 uses a while loop
